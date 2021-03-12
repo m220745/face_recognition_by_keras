@@ -6,7 +6,6 @@
 ###
 .idea/
 venv/
-facenet_master/test_model/model-20180408-102900.ckpt-90.data-00000-of-00001
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

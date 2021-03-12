@@ -35,6 +35,7 @@ CPU版的TensorFlow安装比较简单，但是训练比较慢
 
 ### 测试人脸框定位
 调用 mtcnn_master/test_mtcnn_detect.py 文件
+
 `python mtcnn_master/test_mtcnn_detect.py`
 
 图片来源于网络
@@ -44,6 +45,7 @@ CPU版的TensorFlow安装比较简单，但是训练比较慢
 
 ## 测试人脸对齐
 调用 facenet_master/test_align_face_img.py文件
+
 `python facenet_master/test_align_face_img.py`
 
 图片来源于网络
@@ -53,6 +55,7 @@ CPU版的TensorFlow安装比较简单，但是训练比较慢
 
 ## 测试高斯滤波效果
 调用 facenet_master/test_gaussian_blur.py文件
+
 `python facenet_master/test_gaussian_blur.py`
 
 图片来源于网络
@@ -62,6 +65,7 @@ CPU版的TensorFlow安装比较简单，但是训练比较慢
 
 ## 测试获取人脸128维特征点
 调用 facenet_master/test_get_calc_128_vec.py文件
+
 `python facenet_master/test_get_calc_128_vec.py`
 
 图片来源于网络
